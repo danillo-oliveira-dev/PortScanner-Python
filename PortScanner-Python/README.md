@@ -4,7 +4,7 @@ Este é um script de automação de segurança desenvolvido para estudos de Red 
 
 O objetivo foi criar uma ferramenta de linha de comando (CLI) leve para realizar a fase de _Reconnaissance_ (reconhecimento), identificando portas abertas em um alvo específico através de conexões TCP.
 
-## 🛠 Tecnologias e Conceitos da Ferramenta
+## Tecnologias e Conceitos da Ferramenta
 
 - **Linguagem:** Python 3
 - **Biblioteca:** `socket` (Nativa)
@@ -13,7 +13,7 @@ O objetivo foi criar uma ferramenta de linha de comando (CLI) leve para realizar
   - Resolução de DNS (Domain Name System).
   - Tratamento de exceções e erros de rede.
 
-## 🚀 Como rodar o projeto
+## Como rodar o projeto
 
 ### Pré-requisitos
 
@@ -34,4 +34,3 @@ python scanner.py
 Esta ferramenta foi desenvolvida estritamente para fins educacionais e testes em ambientes autorizados. O uso de scanners de porta em redes de terceiros sem consentimento pode ser ilegal. Eu não me responsabilizo por suas ações.
 
 Projeto desenvolvido por [Danillo] - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
-
