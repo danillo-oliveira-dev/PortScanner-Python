@@ -27,11 +27,10 @@ Você precisa ter o [Python](https://www.python.org/) instalado em sua máquina.
 
 ```bash
 python scanner.py
-
-Insira o IP ou domínio (ex: scanme.nmap.org ou um IP local) quando solicitado.
+```
+4. Insira o IP ou domínio (ex: scanme.nmap.org ou um IP local) quando solicitado.
 
 ⚠️ Nota de Responsabilidade
 Esta ferramenta foi desenvolvida estritamente para fins educacionais e testes em ambientes autorizados. O uso de scanners de porta em redes de terceiros sem consentimento pode ser ilegal. Eu não me responsabilizo por suas ações.
 
-Projeto desenvolvido por Danillo - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
-```
+Projeto desenvolvido por [Danillo] - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
