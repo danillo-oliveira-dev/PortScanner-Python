@@ -31,6 +31,7 @@ python scanner.py
 4. Insira o IP ou domínio (ex: scanme.nmap.org ou um IP local) quando solicitado.
 
 ⚠️ Nota de Responsabilidade:
-Esta ferramenta foi desenvolvida estritamente para fins educacionais e testes em ambientes autorizados. O uso de scanners de porta em redes de terceiros sem consentimento pode ser ilegal. Eu não me responsabilizo por suas ações.
+Esta ferramenta foi desenvolvida estritamente para fins educacionais e testes em ambientes autorizados. O uso de scanners de porta em redes de terceiros sem consentimento é ilegal. Eu não me responsabilizo por suas ações.
 
 Projeto desenvolvido por [Danillo] - Estudante de Cibersegurança e Análise e Desenvolvimento de Sistemas
+
